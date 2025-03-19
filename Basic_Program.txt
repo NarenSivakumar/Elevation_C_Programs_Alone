@@ -1,0 +1,30 @@
+This section contains basic and most frequently asked C language programs questions alone, not C language MCQs or C language theories.
+Source : ChatGPT (mostly), LinkedIn, Geeksforgeeks
+----------------------------
+| Update 1 | Date : 19.3.25 |
+----------------------------
+Top 20 Interview program questions:
+-----------------------------------
+--> Basic programs:
+1. Check if a number is Prime or Not
+2. Check if a number is Palindrome or Not
+3. Find the Factorial of a Number
+4. Check if a number is Armstrong or Not
+5. Reverse a Number
+6. Find the Greatest of Three Numbers
+7. Swap Two Numbers Without Using a Third Variable
+8. Reverse a String Without Using Built-in Functions
+9. Check if a String is Palindrome or Not
+10. Count the Number of Vowels and Consonants in a String
+--> Array Programs:
+11. Reverse an Array
+12. Find the Largest and Smallest Element in an Array
+13. Find the Second Largest Element in an Array
+14. Sort an Array in Ascending Order (Bubble Sort / Selection Sort)
+15. Find the Sum of Elements in an Array
+16. Find the Frequency of Elements in an Array
+17. Merge Two Sorted Arrays
+18. Find Duplicate Elements in an Array
+--> Advanced Programs:
+19. Implement Fibonacci Series Using Recursion
+20. Check if a Number is Even or Odd Using Bitwise Operator
